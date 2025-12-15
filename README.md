@@ -6,16 +6,16 @@
 <h3 align="center">Java Full Stack Developer | Backend Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge">
+  <a href="https://github.com/Shankarrc">
+    <img src="https://img.shields.io/github/followers/Shankarrc?label=Followers&style=for-the-badge">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/shankar-s-abb640299">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:shankar7750739@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/ShanNaru">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
   </a>
 </p>
@@ -57,14 +57,14 @@
 
 ## 📊 LeetCode Live Stats  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Marcellus" />
+  <img src="https://leetcard.jacoblin.cool/ShanNaru?theme=dark&font=Marcellus" />
 </p>
 
 ---
 
 ## 🟩 Contribution Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankarrc&theme=tokyo-night" />
 </p>
 
 ---
@@ -78,10 +78,10 @@
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: *your-email@gmail.com*
-- 💼 LinkedIn: **https://www.linkedin.com/in/YOUR_LINKEDIN**
-- 🧑‍💻 GitHub: **https://github.com/YOUR_GITHUB_USERNAME**
-- 🏆 LeetCode: **https://leetcode.com/YOUR_LEETCODE_USERNAME**
+- 📧 Email: *shankar7750739@gmail.com*
+- 💼 LinkedIn: **https://www.linkedin.com/in/shankar-s-abb640299/**
+- 🧑‍💻 GitHub: **https://github.com/Shankarrc**
+- 🏆 LeetCode: **https://leetcode.com/ShanNaru**
 
 ---
 
